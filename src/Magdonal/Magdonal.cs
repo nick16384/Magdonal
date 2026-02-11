@@ -16,8 +16,17 @@ class Magdonal_
     public const int MaGDONAL = 1_423_942_394;
     static string MAgDONAL;
     static string MAGdONAL = "Magdonal.";
-    static int[] MAKDoNAL = [-10, -17, -2, -16, 10, 34, -8, -2, -55];
-    static int[] MAGDOnAL = [-2, -20, -13, 67, int.MaxValue, 67, (int)sizeof(double), int.MinValue, 67];
+    static int[] MAKDoNAL = [MAGDONAL - MAGDONAL - MAGDONAL - MAGDONAL - MAGDONAL - MAGDONAL - MAGDONAL - MAGDONAL - MAGDONAL - MAGDONAL - MAGDONAL - MAGDONAL,
+                            -(MAGDONAL + MAGDONAL + MAGDONAL + MAGDONAL) * (MAGDONAL + MAGDONAL + MAGDONAL + MAGDONAL) - MAGDONAL,
+                            MAGDONAL - MAGDONAL - MAGDONAL,
+                            -(MAGDONAL + MAGDONAL + MAGDONAL + MAGDONAL) * (MAGDONAL + MAGDONAL + MAGDONAL + MAGDONAL),
+                            (MAGDONAL + MAGDONAL + MAGDONAL) * (MAGDONAL + MAGDONAL + MAGDONAL) + MAGDONAL,
+                            (MAGDONAL + MAGDONAL + MAGDONAL + MAGDONAL) * (MAGDONAL + MAGDONAL + MAGDONAL) * (MAGDONAL + MAGDONAL + MAGDONAL) - MAGDONAL - MAGDONAL,
+                            MAGDONAL - MAGDONAL - MAGDONAL - MAGDONAL - MAGDONAL - MAGDONAL - MAGDONAL - MAGDONAL - MAGDONAL,
+                            MAGDONAL - MAGDONAL - MAGDONAL,
+                            (MAGDONAL + MAGDONAL + MAGDONAL + MAGDONAL + MAGDONAL) * (MAGDONAL + MAGDONAL + MAGDONAL + MAGDONAL) * (MAGDONAL + MAGDONAL + MAGDONAL)
+                            + MAGDONAL + MAGDONAL + MAGDONAL + MAGDONAL + MAGDONAL];
+    static int[] MAGDOnAL = [MAKDoNAL[MAGDONAL + MAGDONAL], -20, -13, 67, int.MaxValue, 67, (int)sizeof(double), int.MinValue, 67];
 
     static Magdonal_()
     {
@@ -37,7 +46,7 @@ class Magdonal_
     public static void Magdonal()
     {
         // "Easier" to understand version:
-        string magdonalString = Magdonal(MAgDONAL.Magdonal());
+        /*string magdonalString = Magdonal(MAgDONAL.Magdonal());
         string writeLineDecoded = Magdonal(MAGdONAL, MAKDoNAL);
         string outDecoded = Magdonal(MAGdONAL, MAGDOnAL)[..(MAGDONAL + MAGDONAL + MAGDONAL)];
         // TODO: Mess this up with Magdonal extension methods and put it in the one-liner
@@ -48,7 +57,7 @@ class Magdonal_
         Magdonallllll printStringSuperNestedAction = Magdonal<Magdonal_>(Magdonal, printStringNestedAction);
         Magdonallll wthIsGoingOn = () => printStringSuperNestedAction(Magdonal);
         Magdonal_ instance = Magdonal(wthIsGoingOn, MAGDONAL);
-        instance.Magdonal();
+        instance.Magdonal();*/
 
         // One-liner fuckup:
         Magdonal(() => Magdonal<Magdonal_>(Magdonal, () => Magdonal(Magdonal, () => Magdonalll.Out.Magdonal(Magdonal(MAgDONAL.Magdonal()))))(Magdonal), MAGDONAL).Magdonal();
