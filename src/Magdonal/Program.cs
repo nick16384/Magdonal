@@ -6,7 +6,10 @@ public class Program
 {
     public static void Main(string[] magdonal)
     {
+        Console.Clear();
         Magdonal.Magdonal_.Magdonal();
+        Thread.Sleep(100);
+        Console.WriteLine("\n\n");
     }
 
     private static string EncodeStringToMagdonalFormat(string str)
